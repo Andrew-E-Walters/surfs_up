@@ -8,12 +8,10 @@ W. Avy likes our analysis, but he wants more information about temperature trend
 Once the data was properly gathered and the right information was filtered, we were then able to convert the data to a list, once we had that list we could then create a data frame from those lists. With the DataFrame all set up we were ready to review our summary satistics and report our findings. 
 
 ### June Temp
-![](![image](https://user-images.githubusercontent.com/109561310/190837961-8dd7ea83-5b41-4aae-9ae9-364e2efb2a1a.png)
-)
+![](https://raw.githubusercontent.com/Andrew-E-Walters/surfs_up/221c9979a34840e7853b4ee7e315b08d5b42844c/Images/June%20Temp.png)
 
 ### December Temp
-![](![image](https://user-images.githubusercontent.com/109561310/190837947-79d954a5-154b-47dc-80bd-1e0b24755745.png)
-)
+![](https://raw.githubusercontent.com/Andrew-E-Walters/surfs_up/221c9979a34840e7853b4ee7e315b08d5b42844c/Images/Dec%20Temp.png)
 
 ### Key Diffrences 
 - June had a higher Max Temp of 85 compared to December at 83
